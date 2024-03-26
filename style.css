@@ -1,0 +1,23 @@
+html{
+    background-color:#FFE4CF ;
+}
+h1{
+    color: #ECB159;
+}
+img{
+    border: 5px solid #FF8911;
+    width: 100%;
+}
+.poster{
+   width: 50%;
+   margin-left: 25%;
+   margin-top: 100px;
+   font-family: "Exo 2", sans-serif;
+   text-align: left;
+   font-size: 25px;
+
+}
+.capitalise{
+    text-transform:uppercase;
+    color: #EF4040;
+}
